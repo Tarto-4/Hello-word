@@ -54,9 +54,9 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 
-# 📖 [Microverse Hello world] <a name="about-project"></a>
+# 📖 Microverse Hello world <a name="about-project"></a>
 
-**[Mcroverse Hello world]** is a simple project. It is the first project created as part of Microverse curriculum.
+**Mcroverse Hello world** is a simple project. It is the first project created as part of Microverse curriculum.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,26 +72,11 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-
 ### Key Features <a name="key-features"></a>
 
-- **[no key1]**
-- **[no feature]**
-- **[no key_2]**
+- **Html header text**
+- **CSS background Color property used**
+- **Markdown syntax used**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +135,7 @@ N/A
 
 
 👤 **Author1**
+- Thato Mongwe
 
 - GitHub: [@githubhandle](https://github.com/Tarto-4)
 - Twitter: [@twitterhandle](https://twitter.com/THATOMongwe4)
